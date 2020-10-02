@@ -6,11 +6,11 @@ This version includes the following:
 
 1. Auto convert to Ayehu NG resultset:
 
-GenerateActivityResult(string)
+	A. GenerateActivityResult(string)
 
-GenerateActivityResult(datatable)
+	B. GenerateActivityResult(datatable)
 
-GenerateActivityResult(json string)
+	C. GenerateActivityResult(json string)
 
 2. AyehuHelper class supporting the following functions:
 
