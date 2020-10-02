@@ -14,7 +14,7 @@ GenerateActivityResult(json string)
 
 2. AyehuHelper class supporting the following functions:
 
-A. queryStringBuilder - support single and array key/value.
+     A. queryStringBuilder - support single and array key/value.
 
 string queryStringBuilder(Dictionary<string, string> queryStringArray)
 
